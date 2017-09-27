@@ -97,7 +97,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <env>development</env>
+                <env>dev</env>
             </properties>
         </profile>
         <profile>
